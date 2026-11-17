@@ -54,4 +54,4 @@ Author
 Chiebuzor Kester
 
 Cybersecurity | Website Security | Ethical Hacking | GRC
-Authorized website security assessment project documenting OWASP ZAP passive scanning, web security observations, testing methodology and security recommendations.
+
